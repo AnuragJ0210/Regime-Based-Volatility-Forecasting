@@ -2,7 +2,7 @@
 
 **Ava Blake · Nivika Gandhi · Anurag Jakkula**  
 *Columbia Summer Undergraduate Research Experiences in Mathematical Modeling*  
-*Advised by George Dragomir, Vihan Pandey, Dobrin Marchev*
+*Advised by Professor George Dragomir, Vihan Pandey, Dobrin Marchev*
 
 ---
 
